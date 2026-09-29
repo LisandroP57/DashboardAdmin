@@ -1,0 +1,14 @@
+# dependencias
+node_modules
+
+# build y cobertura
+dist
+coverage
+
+# entorno / sistema
+.env
+.env.*.local
+.DS_Store
+*.log
+.vscode/*
+!.vscode/extensions.json
